@@ -1,0 +1,4 @@
+create database studentdatabase;
+use studentdatabase;
+show tables;
+select  * from student;
